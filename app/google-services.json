@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475056638657",
+    "project_id": "note-homework-4a3cc",
+    "storage_bucket": "note-homework-4a3cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475056638657:android:cb772227e6485a2a3b6240",
+        "android_client_info": {
+          "package_name": "com.example.note_homework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475056638657-u8j6qt2perje9hqs1f67f1oeued6q5gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPxzKMYcaCc5dCHJ-oMothv6MiEkBOVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475056638657-u8j6qt2perje9hqs1f67f1oeued6q5gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
